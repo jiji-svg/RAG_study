@@ -1,0 +1,8 @@
+# langchain 관련
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+
+python-dotenv
+huggingface_hub
