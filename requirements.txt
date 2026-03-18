@@ -1,8 +1,13 @@
-# langchain 관련
+python-dotenv
+pymupdf
+
 langchain
 langchain-core
 langchain-community
-langchain-huggingface
+langchain-openai
+langchain-text-splitters
 
-python-dotenv
-huggingface_hub
+faiss-cpu
+
+# crawling
+beautifulsoup4
